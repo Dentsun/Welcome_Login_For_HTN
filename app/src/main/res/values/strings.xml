@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">WelcomePage</string>
+    <string name="skip_login">skip login</string>
+</resources>
