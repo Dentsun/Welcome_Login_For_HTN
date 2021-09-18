@@ -29,7 +29,7 @@
         android:layout_height="142dp"
         android:fontFamily="casual"
         android:gravity="center"
-        android:text="BulletSloth"
+        android:text="ThoughtSloth"
         android:textSize="36sp"
         android:textStyle="bold"
         app:layout_constraintBottom_toBottomOf="parent"
